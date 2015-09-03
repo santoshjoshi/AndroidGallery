@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue_grey_700">#455A64</color>
+
+    <color name="color_disabled_view">#88000000</color>
+
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="colorPrimary">@color/theme_color_blue</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white">#88FFFFFF</color>
+
+    <!-- Theme color codes -->
+    <color name="theme_color_blue">#FF1d72d2</color>
+    <color name="theme_color_dark_blue">#175BA8</color>
+    <color name="theme_color_blue_light">#7F1d72d2</color>
+    <color name="theme_color_blue_lighter">#3F1d72d2</color>
+    <color name="theme_error_color_red">#AAFA1111</color>
+    <color name="theme_error_color_red_dark">#EAE01111</color>
+    <color name="white">#ffffffff</color>
+
+    <!-- Color codes for the detail cards of timeline -->
+    <color name="details_card_location">#FFEAEAEA</color>
+    <color name="details_card_transport">#FFEAEAEA</color>
+    <color name="details_card_memories">#FFEAEAEA</color>
+    <color name="details_card_attraction">#FFFDD2D2</color>
+    <color name="details_card_food_jount">#FFD2FDD5</color>
+    <color name="details_card_unmapped">#FFCCCCFF</color>
+    <color name="details_card_activity">#FFFDEBD2</color>
+    <color name="details_card_hotel">#FFB1D3FD</color>
+    <color name="details_card_update">#FFEDE7F6</color>
+
+    <color name="timeline_vertical_line">#FFcccccc</color>
+    <color name="timeline_activity_vertical_line">#565656</color>
+
+    <color name="image_view_pager_background">#AA000000</color>
+    <color name="image_view_pager_background_black">#000000</color>
+    <color name="dialog_card_background">#CD000000</color>
+
+    <color name="black_overlay">#44000000</color>
+    <color name="black_overlay_light">#22000000</color>
+    <color name="black_color">#000000</color>
+
+    <color name="dialog_border_attraction">#6639b5</color>
+    <color name="dialog_border_food_joint">#f24235</color>
+    <color name="dialog_border_hotel">#9a26ae</color>
+    <color name="dialog_border_activity">#009486</color>
+
+    <color name="default_city_color">#565656</color>
+
+
+
+
+</resources>

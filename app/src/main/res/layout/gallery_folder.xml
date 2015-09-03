@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="190dp"
+    android:layout_height="190dp"
+    android:layout_gravity="bottom"
+    android:layout_marginRight="6dp">
+
+    <ImageView
+        android:id="@+id/thumbnail_image"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:layout_gravity="bottom|left"
+        android:scaleType="fitCenter" />
+
+
+    <TextView
+        android:id="@+id/folderName"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_gravity="bottom|left"
+        android:lines="2"
+        android:maxLines="2"
+        android:paddingLeft="3dp"
+        android:text="3 days, Delhi to Leh"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        android:background="#44000000"
+        android:gravity="left|fill_vertical" />
+
+    <TextView
+        android:id="@+id/totalImages"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_gravity="bottom|right"
+        android:lines="1"
+        android:maxLines="1"
+        android:paddingRight="3dp"
+        android:text="3"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        android:background="#44000000"
+        android:gravity="right|fill_vertical" />
+
+
+</FrameLayout>
